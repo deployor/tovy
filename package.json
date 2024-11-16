@@ -50,7 +50,7 @@
     "recoil": "^0.7.7",
     "recoil-nexus": "^0.5.1",
     "sass": "^1.78.0",
-    "tailwind-merge": "^2.5.2",
+    "tailwind-merge": "^2.5.4",
     "ts-node": "^10.9.2",
     "uuid": "^10.0.0"
   },
